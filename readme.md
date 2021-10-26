@@ -8,7 +8,7 @@
 1.รอวันใช้ Tailwind CSS ก็รอเหมือนเธอตอบแชท</br>
 2.React (ขอเวลาหัดเขียน JS ให้รอดก่อน ;-;)
 ## เว็บที่นำไปใช้งาน
-ตอนนี้มีเพียงแค่ https://pcc.ngixx.ml ที่เดียวแหละ ยังไม่น่ามีใครมาดึงโค้ดไปใช้55555555
+ตอนนี้มีเพียงแค่ https://pcc.ngixx.in.th ที่เดียวแหละ ยังไม่น่ามีใครมาดึงโค้ดไปใช้55555555
 ## License
 This project is use [MIT.](https://opensource.org/licenses/MIT)</br>
 ผลงานนี้ใช้ MIT ในการจัดการลิขสิทธิ์ สามารถศึกษาเพิ่มเติมได้ที่ลิงค์นี้ [MIT.](https://opensource.org/licenses/MIT)
